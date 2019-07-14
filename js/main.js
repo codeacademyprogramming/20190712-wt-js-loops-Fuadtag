@@ -7,6 +7,7 @@ function task2(num1, num2) {
             if (i % 2 == 0) {
                 if (i <= num2) {
                     result += i;
+                    console.log(result)
                 }
 
 
@@ -15,4 +16,4 @@ function task2(num1, num2) {
         return result;
     } else(alert(disable))
 }
-alert(task2(10, 78))
+alert(task2(10, 22))
