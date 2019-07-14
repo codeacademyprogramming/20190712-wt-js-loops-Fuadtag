@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+a {
+    text-decoration: none;
+}
+
+.green {
+    color: #5CDBB5;
+}
+
+.navigation h2 {
+    color: black;
+}
+
+.navigation ul {
+    list-style: none;
+    display: flex
+}
+
+.list {
+    display: flex
+}
+
+header {
+    display: flex
+}
